@@ -1,6 +1,6 @@
 # AQIprediction
 
-I did this as a project in my ESP300 lab
+I did this as a project in my ESP300 lab(All AI help)
 
 Workflow:
 
